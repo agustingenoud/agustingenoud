@@ -19,8 +19,3 @@
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/R-05122A?style=flat&logo=r" alt="r Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
-
-## GitHub Analytics
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustingenoud&theme=default&layout=compact&langs_count=5">
-</div>
