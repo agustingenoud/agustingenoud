@@ -6,7 +6,7 @@
 🔭&nbsp;I’m currently working on **Anyone AI & freelance system design**
 <br/>🎓&nbsp;Graduated in **UNA (media arts) + ITBA (data science)**
 <br/>🌱&nbsp;Learning about **Deep Learning, Machine Learning and Computer Vision**
-<br/>📫&nbsp;Reach me [agustingenoud at gmail.com](mailto:agustingenoud at gmail.com)
+<br/>📫&nbsp;Reach me [@](mailto:agustingenoud@gmail.com)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
