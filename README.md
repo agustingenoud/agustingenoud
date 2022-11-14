@@ -4,7 +4,7 @@
 ## About me
 🔭&nbsp;I’m currently working on **Anyone AI & as a freelance system designer**
 <br/>🎓&nbsp;Graduated in **UNA (media arts) + ITBA (data science)**
-<br/>🌱&nbsp;Always learning about **Deep Learning, Machine Learning and Computer Vision**
+<br/>🌱&nbsp;Working around **Deep Learning, Machine Learning and Computer Vision**
 <br/>📫&nbsp;Reach me [@](mailto:agustingenoud@gmail.com)
 
 ## Tech Stack
