@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/agustin-genoud" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 ## About me
-🔭&nbsp;I’m currently working on **Anyone AI & as a freelance system designer**
+🔭&nbsp;I’m currently working on **Globant**
 <br/>🎓&nbsp;Graduated in **UNA (media arts) + ITBA (data science)**
 <br/>🌱&nbsp;Working around **Deep Learning, Machine Learning and Computer Vision**
 <br/>📫&nbsp;Reach me [@](mailto:agustingenoud@gmail.com)
